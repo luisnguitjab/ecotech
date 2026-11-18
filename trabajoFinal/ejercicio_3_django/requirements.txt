@@ -1,2 +1,0 @@
-# Dependencias principales para el Proyecto Django de Sostenibilidad - EcoTech Solutions
-Django>=4.2.0,<5.1.0
