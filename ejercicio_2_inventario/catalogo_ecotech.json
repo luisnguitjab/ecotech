@@ -1,0 +1,30 @@
+[
+    {
+        "tipo_dispositivo": "DispositivoEcológico",
+        "id_producto": "Disp-01",
+        "nombre": "Batería de litio recargable",
+        "marca": "EcoPower",
+        "stock": 12,
+        "ficha_tecnica": "Ficha comercial -> Código: Disp-01 | Dispositivo: Batería de litio recargable (EcoPower) | Unidades en stock: 12"
+    },
+    {
+        "tipo_dispositivo": "PanelSolar",
+        "id_producto": "Sol-101",
+        "nombre": "Monocristalino hogar",
+        "marca": "SunTech",
+        "stock": 25,
+        "ficha_tecnica": "Ficha comercial solar -> Código: Sol-101 | Panel: Monocristalino hogar (SunTech) | Potencia: 450 w | Eficiencia: 21.5% | Unidades en stock: 25",
+        "potencia_watts": 450,
+        "eficiencia_porcentaje": 21.5
+    },
+    {
+        "tipo_dispositivo": "PanelSolar",
+        "id_producto": "Sol-202",
+        "nombre": "Bifacial alta carga",
+        "marca": "SunTech",
+        "stock": 8,
+        "ficha_tecnica": "Ficha comercial solar -> Código: Sol-202 | Panel: Bifacial alta carga (SunTech) | Potencia: 650 w | Eficiencia: 23.8% | Unidades en stock: 8",
+        "potencia_watts": 650,
+        "eficiencia_porcentaje": 23.8
+    }
+]
